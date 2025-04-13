@@ -1,0 +1,2 @@
+# Effect-TS
+Functional Programming.
